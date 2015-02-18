@@ -11,7 +11,7 @@ build
 bin/
 lib/
 contrib/
-build/
+build/*
 
 # Generated
 assimp.pc
